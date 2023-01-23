@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MaryAnnSelander
-- 👀 I’m interested in information.
-- 🌱 I’m currently learning cloud technologies.
-- 💞️ I’m looking to collaborate on innovative solutions to modern challenges.
+
 
 
 <!---
