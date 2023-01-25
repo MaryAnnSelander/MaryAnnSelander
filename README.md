@@ -1,4 +1,6 @@
-
+Current Curiosities include 
+  LLM, NLP, Orleans, HashiCorp, WASM, MAUI
+  
 
 
 <!---
