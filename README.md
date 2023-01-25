@@ -1,5 +1,4 @@
-Current Curiosities include 
-  LLM, NLP, Orleans, HashiCorp, WASM, MAUI
+Current curiosities include DDD CDM AI LLM NLP HashiCorp Orleans WASM, MAUI, GraphQL
   
 
 
